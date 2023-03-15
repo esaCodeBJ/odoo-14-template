@@ -12,7 +12,7 @@ Make sure to have docker and docker-compose installed in your system.
 Start by pulling the code from the repository
 
 ```bash
-git clone https://gitlab.com/Chris000888/odoo-14-template.git
+git clone https://github.com/esaCodeBJ/odoo-14-template.git
 ```
 
 > Note that you only need to run this command once
@@ -53,4 +53,4 @@ docker-compose down -v --rm all
 
 # Author
 
-* [DATO Christopher](https://gitlab.com/Chris000888)
+* [Expédit Sourou ALAGBE](https://github.com/esaCodeBJ)
